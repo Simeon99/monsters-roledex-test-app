@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/monsters-roledex-test-app/static/css/main.c785ced6.css",
+    "main.js": "/github.io/monsters-roledex-test-app/static/js/main.11190aab.js",
+    "static/js/787.9d4b10ae.chunk.js": "/github.io/monsters-roledex-test-app/static/js/787.9d4b10ae.chunk.js",
+    "index.html": "/github.io/monsters-roledex-test-app/index.html",
+    "main.c785ced6.css.map": "/github.io/monsters-roledex-test-app/static/css/main.c785ced6.css.map",
+    "main.11190aab.js.map": "/github.io/monsters-roledex-test-app/static/js/main.11190aab.js.map",
+    "787.9d4b10ae.chunk.js.map": "/github.io/monsters-roledex-test-app/static/js/787.9d4b10ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c785ced6.css",
+    "static/js/main.11190aab.js"
+  ]
+}
